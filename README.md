@@ -24,9 +24,8 @@ You can install required gem pacakages by following command:
   gem install rybellion
 ```
 For Windows user you need to install ansicon to make color on console for cucumber.
-* You can download it here: https://github.com/adoxa/ansicon/downloads
-* Read the detailed instructions here: http://www.kevwebdev.com/blog/in-search-of-a-better-windows-console-using-ansicon-console2-and-git-bash.html
-    + Focus on the section "ANSI escape sequence support with ansicon"
+* You can download ansicon here: [adoxa/ansicon](https://github.com/adoxa/ansicon/downloads)
+* Installation instructions see: [ANSI escape sequence support with ansicon](http://www.kevwebdev.com/blog/in-search-of-a-better-windows-console-using-ansicon-console2-and-git-bash.html#ansicon)
 
 Dependencies
 ------------
