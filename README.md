@@ -35,4 +35,4 @@ Dependencies
 
 How to use it
 -------------
-coming soon.
+Please see demo project on [rybellion-test](https://github.com/gigapixel/rybellion-test)
