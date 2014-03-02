@@ -8,10 +8,10 @@ Rybellion framework provide easier way to write your web automation tests, no co
 
 Prerequisite
 ------------
-Ensure you have installed Ruby on your test machine. 
+# Ensure you have installed Ruby on your test machine. 
 * For ruby installation, please check: https://www.ruby-lang.org/en/installation/
-* Ensure your gem command working properly.
 * For Windows user, you need to install DevKit for build cucumber, download from: http://rubyinstaller.org/downloads/
+# Ensure your gem command working properly.
 
 
 Installation
