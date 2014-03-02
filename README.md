@@ -31,9 +31,9 @@ For Windows user you need to install ansicon to make color on console for cucumb
 
 Dependencies
 ------------
-* [selenium-webdriver](http://rubygems.org/gems/selenium-webdriver) (tested on v2.40.0)
-* [watir-webdriver](http://rubygems.org/gems/watir-webdriver) (tested on v0.6.8)
 * [cucumber](http://rubygems.org/gems/cucumber) (tested on v1.3.10)
+* [watir-webdriver](http://rubygems.org/gems/watir-webdriver) (tested on v0.6.8)
+* [selenium-webdriver](http://rubygems.org/gems/selenium-webdriver) (tested on v2.40.0)
 
 How to use it
 -------------
